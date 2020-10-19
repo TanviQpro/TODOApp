@@ -1,0 +1,73 @@
+const employeeList = [
+  {
+    name: 'Assign to yourself',
+    image: 'face',
+    position: '',
+    id: 0,
+    isSelected: false,
+  },
+  {
+    name: 'Arlene Robertson',
+    image: 'assignment-ind',
+    position: 'Manager',
+    id: 1,
+    isSelected: true,
+  },
+  {
+    name: 'Diana Horward',
+    image: 'perm-identity',
+    position: 'Franchise Manager',
+    id: 2,
+    isSelected: false,
+  },
+  {
+    name: 'Marketing Team Members',
+    image: 'person-add',
+    position: '12 Members',
+    id: 3,
+    isSelected: true,
+  },
+  {
+    name: 'Robert Fox',
+    image: 'mood',
+    position: 'Manager',
+    id: 4,
+    isSelected: false,
+  },
+  {
+    name: 'Daniel Radcliff',
+    image: 'directions-bike',
+    position: 'Head of Engineering',
+    id: 5,
+    isSelected: false,
+  },
+  {
+    name: 'Emma Watson',
+    image: 'local-florist',
+    position: 'Heade of Marketing',
+    id: 6,
+    isSelected: true,
+  },
+  {
+    name: 'Robert Fox',
+    image: 'mood',
+    position: 'Manager',
+    id: 7,
+    isSelected: true,
+  },
+  {
+    name: 'Daniel Radcliff',
+    image: 'directions-bike',
+    position: 'Head of Engineering',
+    id: 8,
+    isSelected: false,
+  },
+  {
+    name: 'Emma Watson',
+    image: 'local-florist',
+    position: 'Heade of Marketing',
+    id: 9,
+    isSelected: false,
+  },
+];
+export default employeeList;
